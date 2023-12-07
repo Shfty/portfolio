@@ -1,6 +1,13 @@
 # Portfolio
 Project index
 
+## TODO
+
+* Archive relevant projects to GitHub
+* Create archival organizations for many-repo projects (webOS, Unreal, Unity, etc.)
+* Embed images and gifs where relevant
+* Featured header section for highliting most relevant projects
+
 ## Commercial
 ### [Dark Future: Blood Red States](https://store.steampowered.com/app/370870/Dark_Future_Blood_Red_States/)
 
@@ -9,6 +16,12 @@ Video game adaptation of the Games Workshop tabletop game.
 ### [Acopperlypse](http://web.archive.org/web/20211204115048/https://www.acopperlypse.com/)
 
 VR tower defense game with optional asynchronous multiplayer.
+
+## Game Jam
+
+### [Synth Rider](https://teamgormless.itch.io/synthrider-absurd-aspect-ratio-jam-2016)
+
+Stylized time attack rail racer created as part of Team Gormless for Absurd Aspect Ratio Jam 2016.
 
 ## Functional Programming
 ### elysian
