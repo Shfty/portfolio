@@ -4,12 +4,17 @@ Project index
 ## Commercial
 ### [Dark Future: Blood Red States](https://store.steampowered.com/app/370870/Dark_Future_Blood_Red_States/)
 
+Video game adaptation of the Games Workshop tabletop game.
+
 ### [Acopperlypse](http://web.archive.org/web/20211204115048/https://www.acopperlypse.com/)
+
+VR tower defense game with optional asynchronous multiplayer.
 
 ## Functional Programming
 ### elysian
 
-Row-polymorphic pure functional programming language. Designed as a first-class representation of analytical field functions (as in Signed Distance Fields.)
+Row-polymorphic pure functional programming language.
+Designed as a first-class representation for analytical field functions (as in Signed Distance Fields.)
 
 ## Rust
 
